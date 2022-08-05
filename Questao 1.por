@@ -5,7 +5,8 @@ programa
 	funcao inicio()
 	{
      /* Questão 1 */
-     real peso, exc=0.0, multa=0.0
+     real peso, exc, multa=0.0
+     
 
 		escreva("Digite o peso dos tomates: ")
 		leia(peso)
@@ -27,7 +28,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 404; 
+ * @POSICAO-CURSOR = 200; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
